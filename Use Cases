@@ -1,5 +1,0 @@
-| Use case | Description | Associated Requirements |
-| --- | --- | --- |
-| UC-1: Purchase a product | A cashier starts a purchase session process for the products by clicking on the keyboard. The session can be canceled anytime by clicking cancel on the keyboard or scanning or entering the barcode
-on the keyboard. All  products scanned will be nullified. | R-01 , RO-2 , R0-7 |
-
